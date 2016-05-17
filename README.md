@@ -6,8 +6,4 @@
 
 ## Working with all of our build scripts
 Please use the _npm_ script
-`$ npm run watch`
-
-## Testing the app
-Please use the _npm_ script
-`$ npm run test`
+`$ npm start`
